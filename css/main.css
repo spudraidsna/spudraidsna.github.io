@@ -105,7 +105,7 @@ a, a:link, a:visited, a:focus {
 .build {
 	padding: 25px 0;
 	max-width: 980px;
-	margin: 45px auto 0 auto;
+	margin: 45px auto 15px auto;
 	background: #3f3f3f;
 }
 
@@ -142,4 +142,18 @@ a, a:link, a:visited, a:focus {
 
 .build-item {
 	margin-top: 10px;
+}
+
+hr {
+	margin-top: 1rem;
+margin-bottom: 1rem;
+border: 0;
+    border-top-color: currentcolor;
+    border-top-style: none;
+    border-top-width: 0px;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+border-top: 1px solid rgba(19,19,19,.33);
+border-bottom: 1px solid rgba(236,236,236,.11);
 }

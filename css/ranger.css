@@ -10,3 +10,8 @@
 .ranger-builds {
     border-top: 15px #5b9e19 solid;
 }
+
+.gear img {
+    max-height: 100px;
+    max-width: 100px;
+}
