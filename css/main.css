@@ -56,6 +56,10 @@ html, body {
     font-size: 16px;
     background: #3f3f3f;
 	color: #fff;
+	background: url("http://gw2.purplellama.ca/wallpapers/sepia/1920x1080.jpg");
+	background-size: cover;
+	background-position: top;
+	background-attachment: fixed;
 }
 
 a, a:link, a:visited, a:focus {
@@ -73,6 +77,8 @@ a, a:link, a:visited, a:focus {
 #content {
     width: 100%;
 	margin-top: 50px;
+
+	background-size: cover;
 }
 
 .class-header {
