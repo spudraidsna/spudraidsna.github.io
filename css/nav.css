@@ -1,0 +1,91 @@
+nav {
+	position: fixed;
+	top: 0;
+    width: 100%;
+    height: 50px;
+    /* text-align: right; */
+    background: #2c2c2c;
+	/* background: #5b9e19; */
+    color: #fff;
+    box-shadow: 0px 0px 5px #000;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav ul.class-list {
+    list-style: none;
+    padding-top: 1em;
+}
+
+nav ul.class-list li {
+    display: inline;
+    margin-right: 1.2em;
+    font-size: 18px;
+}
+
+nav ul li .active-page {
+	color: #5b9e19;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+nav ul li img {
+    margin-right: 5px;
+}
+
+nav a.nav-warrior:hover {
+	color: #d9ac3b;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-guardian:hover {
+	color: #95d5e7;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-revenant:hover {
+	color: #7e3648;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-ranger:hover {
+	color: #5b9e19;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-engineer:hover {
+	color: #ba8840;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-thief:hover {
+	color: #676e8b;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-elementalist:hover {
+	color: #c54838;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-mesmer:hover {
+	color: #9d66a6;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
+
+nav a.nav-necromancer:hover {
+	color: #5b775a;
+	/* font-size: 1.3em; */
+	text-shadow: 0 1px 10px #000;
+}
