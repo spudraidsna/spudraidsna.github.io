@@ -58,7 +58,7 @@ html, body {
 	color: #fff;
 	background: url("http://gw2.purplellama.ca/wallpapers/sepia/1920x1080.jpg");
 	background-size: cover;
-	background-position: top;
+	background-position: center;
 	background-attachment: fixed;
 }
 
@@ -103,7 +103,7 @@ a, a:link, a:visited, a:focus {
 }
 
 .build {
-	height: 400px;
+	padding: 25px 0;
 	max-width: 980px;
 	margin: 45px auto 0 auto;
 	background: #3f3f3f;
