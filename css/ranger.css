@@ -6,3 +6,7 @@
 .ranger_wrap {
     background: url("https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/wallpapers/GW2_RangerWallpaper01-1920x1080.jpg");
 }
+
+.ranger-builds {
+    border-top: 15px #5b9e19 solid;
+}
