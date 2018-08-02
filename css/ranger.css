@@ -17,19 +17,23 @@
 }
 
 .boons-fill {
-    width: calc(90% - 8em);
+    width: calc(70% - 8em);
+    background: #ffd166;
 }
 
 .heal-fill {
     width: calc(90% - 8em);
+    background: #6aa04f;
 }
 
 .cleave-fill {
-    width: calc(90% - 8em);
+    width: calc(60% - 8em);
+    background: #f73b38;
 }
 
 .cc-fill {
-    width: calc(90% - 8em);
+    width: calc(99% - 8em);
+    background: #6aa04f;
 }
 
 .sc-cta-ranger {
