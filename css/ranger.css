@@ -23,17 +23,22 @@
 
 .heal-fill {
     width: calc(90% - 8em);
-    background: #6aa04f;
+    /* background: #6aa04f; */
+    background: #67a748;
+    /* #67a748 */
 }
 
 .cleave-fill {
     width: calc(60% - 8em);
-    background: #f73b38;
+    /* background: #f73b38; */
+    background: #ff4b48;
+    /* #ff4b48 */
 }
 
 .cc-fill {
     width: calc(99% - 8em);
-    background: #6aa04f;
+    background: #67a748;
+    /* background: #6aa04f; */
 }
 
 .sc-cta-ranger {
