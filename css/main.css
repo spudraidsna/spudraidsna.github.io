@@ -234,3 +234,32 @@ hr {
 	max-width: 250px;
 	max-height: 50px;
 }
+
+.hover-text {
+	display: none;
+}
+
+.request-help:hover .hover-text{
+	display: block;
+	text-align: center;
+	background: #2c2c2c;
+    color: #fff;
+	padding: 1em;
+	font-size: 1.2em;
+	line-height: 1.5;
+	max-height: 50px;
+}
+.request-help:hover .raid-help-cta{
+	display: none;
+}
+
+.request-help:hover {
+	bottom: 0;
+	right: 0;
+	width: 100%;
+}
+
+.request-help a {
+	width: 100%;
+	height: 100%;
+}
