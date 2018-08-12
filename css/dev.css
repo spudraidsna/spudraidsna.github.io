@@ -7,9 +7,10 @@ header {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-end;
     padding-left: 1em;
     box-shadow: 0px 0px 5px #000;
+    z-index: 3
 }
 
 ul.nav-links {
@@ -99,8 +100,8 @@ nav a.nav-necromancer:hover {
 	text-shadow: 0 1px 10px #000;
 }
 
-.build-help-cta {
+/* .build-help-cta {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
