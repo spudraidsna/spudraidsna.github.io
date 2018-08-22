@@ -217,11 +217,12 @@ hr {
 	bottom: 0.5em;
 	right: 0.5em;
 	background: #2c2c2c;
-    box-shadow: 0px 1px 3px #000;
+    box-shadow: 0px 1px 3px rgba(103, 110, 139, 0.7);
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
+	border-radius: 5px
 }
 
 .raid-help-cta {
@@ -230,7 +231,13 @@ hr {
     color: #fff;
 	padding: 1em;
 	font-size: 1.2em;
-
 	max-width: 250px;
 	max-height: 50px;
+	border-radius: 10px
 }
+
+.help-pulse {
+	animation: pulse 2s infinite cubic-bezier(0.66, 0, 0, 1);
+}
+
+@keyframes pulse {to {box-shadow: 0 0 0 15px rgba(103, 110, 139, 0);}}
