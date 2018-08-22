@@ -121,7 +121,11 @@ hr {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+<<<<<<< HEAD
 	background: #2c2c2c
+=======
+	background: #2c2c2c;
+>>>>>>> 43344cdd44e4fea20f8736ceffd00644e0e3baa9
 }
 
 .build-header-text {
