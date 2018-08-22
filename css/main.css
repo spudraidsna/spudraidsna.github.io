@@ -230,7 +230,25 @@ hr {
     color: #fff;
 	padding: 1em;
 	font-size: 1.2em;
-
 	max-width: 250px;
 	max-height: 50px;
+}
+
+.help-pulse {
+	animation: pulse 10s infinite linear;
+}
+
+@keyframes pulse {
+  0% {
+    background: #2c2c2c;
+  }
+  45% {
+	  background: #2c2c2c;
+  }
+  50% {
+    background: #676e8b;
+  }
+  55% {
+    background: #2c2c2c;
+  }
 }

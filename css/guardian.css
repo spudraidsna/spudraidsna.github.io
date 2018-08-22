@@ -1,9 +1,11 @@
 .gua-builds {
-    border-top: 15px #95d5e7 solid;
+    /* border-top: 15px #95d5e7 solid; */
+    border-top: 15px #3eb3e1 solid;
 }
 
 .gua-spec {
-    border-bottom: 2px solid #95d5e7;
+    /* border-bottom: 2px solid #95d5e7; */
+    border-bottom: 2px solid #3eb3e1;
 }
 
 .gear img, .rota img {
@@ -38,7 +40,8 @@
 
 .sc-cta-gua {
     padding: 1em 2em;
-    background: #95d5e7;
+    /* background: #95d5e7; */
+    background: #3eb3e1;
     box-shadow: 0px 1px 3px #000;
     display: flex;
     justify-content: center;
