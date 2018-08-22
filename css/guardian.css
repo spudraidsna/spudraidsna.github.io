@@ -1,5 +1,9 @@
-.ranger-builds {
-    border-top: 15px #5b9e19 solid;
+.gua-builds {
+    border-top: 15px # #95d5e7 solid;
+}
+
+.gua-spec {
+    border-bottom: 2px solid #95d5e7;
 }
 
 .gear img, .rota img {
@@ -32,9 +36,9 @@
     /* background: #6aa04f; */
 }
 
-.sc-cta-ranger {
+.sc-cta-gua {
     padding: 1em 2em;
-    background: #5b9e19;
+    background: #95d5e7;
     box-shadow: 0px 1px 3px #000;
     display: flex;
     justify-content: center;
