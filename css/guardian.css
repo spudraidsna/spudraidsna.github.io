@@ -1,0 +1,51 @@
+.ranger-build-header {
+    /* background: #5b9e19; */
+    background: #2c2c2c;
+}
+
+.ranger_wrap {
+    background: url("https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/wallpapers/GW2_RangerWallpaper01-1920x1080.jpg");
+}
+
+.ranger-builds {
+    border-top: 15px #5b9e19 solid;
+}
+
+.gear img, .rota img {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.boons-fill {
+    width: calc(70% - 8em);
+    background: #ffd166;
+}
+
+.heal-fill {
+    width: calc(90% - 8em);
+    /* background: #6aa04f; */
+    background: #67a748;
+    /* #67a748 */
+}
+
+.cleave-fill {
+    width: calc(60% - 8em);
+    /* background: #f73b38; */
+    background: #cc4d4b;
+    /* #ff4b48 */
+}
+
+.cc-fill {
+    width: calc(99% - 8em);
+    background: #67a748;
+    /* background: #6aa04f; */
+}
+
+.sc-cta-ranger {
+    padding: 1em 2em;
+    background: #5b9e19;
+    box-shadow: 0px 1px 3px #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
