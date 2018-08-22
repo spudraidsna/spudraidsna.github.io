@@ -106,7 +106,7 @@ hr {
 	text-shadow: 2px 2px 4px #000;
 }
 
-.build {
+.build, .guide {
 	padding: 25px 0;
 	max-width: 980px;
 	margin: 45px auto 15px auto;
