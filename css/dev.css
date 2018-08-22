@@ -100,6 +100,51 @@ nav a.nav-necromancer:hover {
 	text-shadow: 0 1px 10px #000;
 }
 
+.war-active {
+	color: #d9ac3b;
+	text-shadow: 0 1px 10px #000;
+}
+
+.gua-active {
+	color: #95d5e7;
+	text-shadow: 0 1px 10px #000;
+}
+
+.rev-active {
+	color: #7e3648;
+	text-shadow: 0 1px 10px #000;
+}
+
+.ran-active {
+	color: #5b9e19;
+	text-shadow: 0 1px 10px #000;
+}
+
+.eng-active {
+	color: #ba8840;
+	text-shadow: 0 1px 10px #000;
+}
+
+.thi-active {
+	color: #676e8b;
+	text-shadow: 0 1px 10px #000;
+}
+
+.ele-active {
+	color: #c54838;
+	text-shadow: 0 1px 10px #000;
+}
+
+.mes-active {
+	color: #9d66a6;
+	text-shadow: 0 1px 10px #000;
+}
+
+.nec-active {
+	color: #5b775a;
+	text-shadow: 0 1px 10px #000;
+}
+
 /* .build-help-cta {
     display: flex;
     justify-content: center;
