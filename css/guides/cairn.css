@@ -1,0 +1,18 @@
+html, body {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    background: #3f3f3f;
+	color: #fff;
+	background: url("https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2017/07/3a88c2017-02_HOT_RaidWing4_Wallpaper-1920x1080.jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.guide {
+    border-top: 15px solid #2c2c2c;
+}
+
+.guide-content {
+    margin: 0 20px;
+}
