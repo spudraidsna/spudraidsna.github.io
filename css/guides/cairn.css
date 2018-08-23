@@ -8,11 +8,3 @@ html, body {
 	background-position: center;
 	background-attachment: fixed;
 }
-
-.guide {
-    border-top: 15px solid #2c2c2c;
-}
-
-.guide-content {
-    margin: 0 20px;
-}
