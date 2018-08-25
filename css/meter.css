@@ -162,7 +162,7 @@ hr {
 	justify-content: space-evenly;
 }
 
-.graph {
+/* .graph {
   max-width: 50em;
   max-height: 20em;
 }
@@ -194,7 +194,7 @@ hr {
   display: inline-block;
   z-index: 2;
   position: absolute;
-}
+} */
 
 .names-desc {
 	margin-bottom: 5px;
@@ -241,4 +241,139 @@ hr {
 	font-size: 1.1em;
 	line-height: 1.5;
 	font-weight: lighter;
+}
+
+/*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  *//*  */
+/*  */
+/*  */
+/*  */
+/*  */
+
+.build-ratings {
+    display: flex;
+    width: 100%;
+}
+
+.ratings-left, .ratings-right {
+    width: 50%;
+}
+
+.meter {
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em 0;
+}
+
+.meter-label {
+    background: #2c2c2c;
+    height: 2em;
+    width: 4em;
+    padding: 0 2em;
+    display: inline-block;
+    color: #fff;
+    line-height: 2em;
+    text-align: center;
+    display: inline-block;
+}
+
+.meter-bg {
+    background: rgba(63, 63, 63, 0.4);
+    background: lighten #3f3f3f, 50%;
+    display: inline-block;
+    width: 60%;
+    height: 2em;
+}
+
+
+.fill-ten {
+    width: 10%;
+    height: 100%;
+    background: #cc4d4b;
+}
+.fill-twenty {
+    width: 20%;
+    height: 100%;
+    background: #cc4d4b;
+}
+.fill-thirty {
+    width: 30%;
+    height: 100%;
+    background: #cc4d4b;
+}
+.fill-fourty {
+    width: 40%;
+    height: 100%;
+    background: #ffd166;
+}
+.fill-fifty {
+    width: 50%;
+    height: 100%;
+    background: #ffd166;
+}
+.fill-sixty {
+    width: 60%;
+    height: 100%;
+    background: #ffd166;
+}
+.fill-seventy {
+    width: 70%;
+    height: 100%;
+    background: #67a748;
+}
+.fill-eighty {
+    width: 80%;
+    height: 100%;
+    background: #67a748;
+}
+.fill-ninety {
+    width: 90%;
+    height: 100%;
+    background: #67a748;
+}
+.fill-hundred {
+    width: 100%;
+    height: 100%;
+    background: #67a748;
 }
